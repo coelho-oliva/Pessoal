@@ -1,0 +1,1023 @@
+Palavra: atras Chave: 30849 Docs: 12 
+Palavra: onibus Chave: 30849 Docs: 12 
+Palavra: proposta Chave: 30849 Docs: 12 
+Palavra: deixe Chave: 30849 Docs: 11 
+Palavra: parido Chave: 30849 Docs: 9 10 
+Palavra: protegem Chave: 30849 Docs: 9 10 
+Palavra: justo Chave: 30849 Docs: 9 10 
+Palavra: maligno Chave: 30849 Docs: 6 7 8 
+Palavra: assisado Chave: 30849 Docs: 5 6 7 8 
+Palavra: quis Chave: 30849 Docs: 1 2 4 5 6 7 8 
+Palavra: essa Chave: 7120 Docs: 12 
+Palavra: entao, Chave: 7120 Docs: 12 
+Palavra: Discriminacao Chave: 7120 Docs: 12 
+Palavra: escondido Chave: 7120 Docs: 11 
+Palavra: Bofe Chave: 7120 Docs: 10 
+Palavra: rastreio Chave: 7120 Docs: 9 10 
+Palavra: diferente Chave: 7120 Docs: 9 10 
+Palavra: mais Chave: 7120 Docs: 7 8 11 12 
+Palavra: Eu Chave: 7120 Docs: 3 4 5 12 
+Palavra: ser Chave: 7120 Docs: 1 2 12 
+Palavra: Brasilia, Chave: 89837 Docs: 12 
+Palavra: jurei Chave: 89837 Docs: 12 
+Palavra: 14, Chave: 89837 Docs: 12 
+Palavra: Ate Chave: 89837 Docs: 12 
+Palavra: para Chave: 89837 Docs: 12 
+Palavra: folhas Chave: 89837 Docs: 6 7 8 
+Palavra: servidor Chave: 89837 Docs: 5 6 7 8 
+Palavra: pedir Chave: 89837 Docs: 5 6 7 
+Palavra: Desvirginava Chave: 26558 Docs: 12 
+Palavra: contrabando Chave: 26558 Docs: 12 
+Palavra: Asa Chave: 26558 Docs: 12 
+Palavra: crucificado, Chave: 26558 Docs: 12 
+Palavra: Como Chave: 26558 Docs: 12 
+Palavra: vivia Chave: 26558 Docs: 12 
+Palavra: queria Chave: 26558 Docs: 12 
+Palavra: cor Chave: 26558 Docs: 11 
+Palavra: poder Chave: 26558 Docs: 10 12 
+Palavra: rapaz Chave: 26558 Docs: 4 5 12 
+Palavra: puridade Chave: 26558 Docs: 4 5 
+Palavra: Doideira Chave: 26558 Docs: 4 5 6 7 8 
+Palavra: Vaca Chave: 26558 Docs: 3 4 
+Palavra: tiros Chave: 81025 Docs: 12 
+Palavra: TV Chave: 81025 Docs: 12 
+Palavra: os Chave: 81025 Docs: 11 12 
+Palavra: posso Chave: 81025 Docs: 5 6 7 
+Palavra: minha Chave: 81025 Docs: 3 5 6 7 8 12 
+Palavra: pro Chave: 30515 Docs: 12 
+Palavra: coisa Chave: 30515 Docs: 4 5 6 7 8 9 10 12 
+Palavra: dito Chave: 30515 Docs: 2 5 6 7 8 
+Palavra: ha Chave: 29273 Docs: 12 
+Palavra: primeira Chave: 29273 Docs: 12 
+Palavra: Ficou Chave: 29273 Docs: 12 
+Palavra: tras Chave: 29273 Docs: 12 
+Palavra: Ipe Chave: 29273 Docs: 9 10 
+Palavra: logogrifos Chave: 29273 Docs: 9 10 
+Palavra: meante Chave: 29273 Docs: 9 
+Palavra: campear Chave: 29273 Docs: 6 7 8 
+Palavra: executa Chave: 29273 Docs: 3 4 
+Palavra: Quem Chave: 29273 Docs: 3 4 
+Palavra: Sentido Chave: 786826 Docs: 12 
+Palavra: sossega Chave: 786826 Docs: 9 10 
+Palavra: leitura Chave: 786826 Docs: 9 10 
+Palavra: quaresma Chave: 786826 Docs: 7 8 
+Palavra: comer Chave: 786826 Docs: 6 7 8 
+Palavra: plantas Chave: 786826 Docs: 5 6 7 8 
+Palavra: qualquer Chave: 786826 Docs: 3 4 
+Palavra: almargem Chave: 786826 Docs: 3 4 5 6 
+Palavra: atirava Chave: 7240 Docs: 12 
+Palavra: traficantes Chave: 7240 Docs: 12 
+Palavra: Santo Chave: 7240 Docs: 12 
+Palavra: temer Chave: 7240 Docs: 9 10 
+Palavra: proveitosa Chave: 7240 Docs: 9 10 
+Palavra: carece Chave: 7240 Docs: 5 6 7 8 9 10 
+Palavra: fosse Chave: 7240 Docs: 5 6 7 
+Palavra: deu Chave: 7240 Docs: 2 12 
+Palavra: Falou Chave: 423194 Docs: 12 
+Palavra: Voce Chave: 423194 Docs: 12 
+Palavra: Cristo Chave: 423194 Docs: 12 
+Palavra: Um Chave: 423194 Docs: 12 
+Palavra: entrou Chave: 423194 Docs: 12 
+Palavra: tomar Chave: 423194 Docs: 12 
+Palavra: Quando Chave: 423194 Docs: 12 
+Palavra: proprio Chave: 423194 Docs: 11 
+Palavra: Arremisturado Chave: 423194 Docs: 6 7 
+Palavra: roncar Chave: 423194 Docs: 6 7 8 
+Palavra: Sofro Chave: 423194 Docs: 6 7 8 
+Palavra: alta Chave: 423194 Docs: 5 6 7 8 12 
+Palavra: ia Chave: 423194 Docs: 4 5 12 
+Palavra: buritizal Chave: 423194 Docs: 3 4 
+Palavra: gente Chave: 423194 Docs: 2 3 4 5 6 7 8 9 12 
+Palavra: cachorro Chave: 423194 Docs: 1 2 
+Palavra: quintal Chave: 423194 Docs: 1 2 
+Palavra: reporter Chave: 66454 Docs: 12 
+Palavra: descobriu Chave: 66454 Docs: 12 
+Palavra: pais Chave: 66454 Docs: 12 
+Palavra: boiadeiro Chave: 66454 Docs: 12 
+Palavra: boiadeiro Chave: 66454 Docs: 12 
+Palavra: ver Chave: 66454 Docs: 12 
+Palavra: Era Chave: 66454 Docs: 12 
+Palavra: proclamar Chave: 66454 Docs: 9 10 
+Palavra: suja Chave: 66454 Docs: 6 7 8 
+Palavra: TIROS Chave: 66454 Docs: 1 2 
+Palavra: Da Chave: 29617 Docs: 12 
+Palavra: banca Chave: 29617 Docs: 12 
+Palavra: pensava Chave: 29617 Docs: 12 
+Palavra: sara Chave: 29617 Docs: 10 
+Palavra: engambelando Chave: 29617 Docs: 9 10 
+Palavra: saudoso Chave: 29617 Docs: 9 
+Palavra: compadre Chave: 29617 Docs: 7 8 10 
+Palavra: espia Chave: 29617 Docs: 7 8 
+Palavra: diabo Chave: 29617 Docs: 5 6 7 8 9 10 12 
+Palavra: O Chave: 29617 Docs: 2 3 4 5 6 7 11 12 
+Palavra: Todo Chave: 29617 Docs: 1 2 
+Palavra: Destemido Chave: 436531 Docs: 12 
+Palavra: às Chave: 436531 Docs: 12 
+Palavra: mil Chave: 436531 Docs: 12 
+Palavra: ja Chave: 436531 Docs: 11 12 
+Palavra: Ave Chave: 436531 Docs: 7 8 
+Palavra: esmo Chave: 436531 Docs: 6 7 8 
+Palavra: acredita Chave: 436531 Docs: 5 6 7 8 
+Palavra: despontar Chave: 436531 Docs: 4 5 6 7 8 
+Palavra: arrebitado Chave: 436531 Docs: 1 2 
+Palavra: avistar Chave: 436531 Docs: 1 2 
+Palavra: sem-vergonha, Chave: 2214248 Docs: 12 
+Palavra: So Chave: 2214248 Docs: 12 
+Palavra: suor Chave: 2214248 Docs: 11 
+Palavra: aconselhar Chave: 2214248 Docs: 9 10 
+Palavra: condizente Chave: 2214248 Docs: 4 5 
+Palavra: parou Chave: 2214248 Docs: 3 4 
+Palavra: engordando Chave: 2214248 Docs: 3 4 
+Palavra: sangue Chave: 805 Docs: 9 10 11 12 
+Palavra: Soziano Chave: 805 Docs: 9 10 
+Palavra: mansa Chave: 805 Docs: 6 7 8 
+Palavra: bem Chave: 805 Docs: 4 5 11 
+Palavra: nomes Chave: 805 Docs: 4 5 6 7 
+Palavra: chamado Chave: 805 Docs: 3 4 
+Palavra: ou Chave: 805 Docs: 3 12 
+Palavra: de Chave: 805 Docs: 3 5 6 7 9 11 12 
+Palavra: atiro Chave: 217314 Docs: 12 
+Palavra: coracao Chave: 217314 Docs: 12 
+Palavra: neto Chave: 217314 Docs: 12 
+Palavra: igreja Chave: 217314 Docs: 12 
+Palavra: Nosso Chave: 217314 Docs: 11 
+Palavra: isso Chave: 217314 Docs: 3 
+Palavra: Esses Chave: 217314 Docs: 3 4 5 6 
+Palavra: dentro Chave: 217314 Docs: 2 5 6 7 12 
+Palavra: Saindo Chave: 202964 Docs: 12 
+Palavra: -Nao Chave: 202964 Docs: 12 
+Palavra: uma Chave: 202964 Docs: 11 12 
+Palavra: antes Chave: 202964 Docs: 11 12 
+Palavra: desdoidar Chave: 202964 Docs: 10 
+Palavra: ditado Chave: 202964 Docs: 5 6 7 8 
+Palavra: rico Chave: 202964 Docs: 3 4 
+Palavra: aprova Chave: 202964 Docs: 3 4 5 6 7 8 10 
+Palavra: primo Chave: 220480 Docs: 12 
+Palavra: lembrou Chave: 220480 Docs: 12 
+Palavra: acertou Chave: 220480 Docs: 12 
+Palavra: negocio Chave: 220480 Docs: 12 
+Palavra: cem Chave: 220480 Docs: 12 
+Palavra: num Chave: 220480 Docs: 12 
+Palavra: ligeira Chave: 220480 Docs: 9 10 
+Palavra: duma Chave: 220480 Docs: 6 7 8 
+Palavra: pastos Chave: 220480 Docs: 2 
+Palavra: suas Chave: 217091 Docs: 12 
+Palavra: duelo Chave: 217091 Docs: 12 
+Palavra: Essa Chave: 217091 Docs: 12 
+Palavra: mas Chave: 217091 Docs: 12 
+Palavra: la Chave: 217091 Docs: 12 
+Palavra: escolher Chave: 217091 Docs: 9 10 12 
+Palavra: Aristides Chave: 217091 Docs: 3 4 
+Palavra: casa Chave: 217091 Docs: 2 3 4 12 
+Palavra: demais Chave: 217091 Docs: 2 
+Palavra: erroso Chave: 217091 Docs: 1 2 
+Palavra: noticia Chave: 91888 Docs: 12 
+Palavra: sofrer Chave: 91888 Docs: 12 
+Palavra: louco Chave: 91888 Docs: 10 
+Palavra: regra Chave: 91888 Docs: 9 
+Palavra: passou Chave: 91888 Docs: 4 
+Palavra: direita Chave: 91888 Docs: 3 4 
+Palavra: olhos Chave: 91888 Docs: 1 2 7 8 12 
+Palavra: vento Chave: 27479 Docs: 5 6 7 8 
+Palavra: vara Chave: 27479 Docs: 4 5 
+Palavra: bandeirinhas Chave: 400267 Docs: 12 
+Palavra: seus Chave: 400267 Docs: 12 
+Palavra: ma Chave: 400267 Docs: 12 
+Palavra: onde Chave: 400267 Docs: 12 
+Palavra: grosso Chave: 400267 Docs: 9 10 
+Palavra: Lucas Chave: 400267 Docs: 9 
+Palavra: conversei Chave: 400267 Docs: 4 5 
+Palavra: avisando Chave: 400267 Docs: 3 4 
+Palavra: verdade Chave: 400267 Docs: 2 
+Palavra: Lucia Chave: 30419 Docs: 12 
+Palavra: logo Chave: 30419 Docs: 12 
+Palavra: - Chave: 30419 Docs: 12 
+Palavra: medo, Chave: 30419 Docs: 12 
+Palavra: pecador Chave: 30419 Docs: 10 
+Palavra: Valor Chave: 30419 Docs: 9 10 
+Palavra: esperto Chave: 30419 Docs: 9 10 
+Palavra: ramos Chave: 30419 Docs: 6 7 8 
+Palavra: vosso Chave: 30419 Docs: 5 6 7 8 
+Palavra: porque Chave: 30419 Docs: 3 12 
+Palavra: quer Chave: 30419 Docs: 3 12 
+Palavra: Planalto Chave: 220486 Docs: 12 
+Palavra: velhinhas Chave: 220486 Docs: 12 
+Palavra: tempo Chave: 220486 Docs: 11 12 
+Palavra: ora Chave: 220486 Docs: 10 
+Palavra: almanaque Chave: 220486 Docs: 9 10 
+Palavra: pobre Chave: 220486 Docs: 7 8 
+Palavra: sovas Chave: 220486 Docs: 7 8 
+Palavra: regula Chave: 220486 Docs: 5 6 7 8 
+Palavra: sobra Chave: 220486 Docs: 5 6 7 8 
+Palavra: mortos Chave: 220486 Docs: 2 
+Palavra: lugar Chave: 90876 Docs: 12 
+Palavra: na Chave: 90876 Docs: 12 
+Palavra: tudo Chave: 90876 Docs: 6 7 12 
+Palavra: preto Chave: 90876 Docs: 5 6 7 8 
+Palavra: muito Chave: 90876 Docs: 3 4 5 6 7 8 11 12 
+Palavra: Deu Chave: 88165 Docs: 12 
+Palavra: demora Chave: 88165 Docs: 12 
+Palavra: nela Chave: 88165 Docs: 12 
+Palavra: tinha Chave: 88165 Docs: 12 
+Palavra: lidar Chave: 88165 Docs: 9 10 
+Palavra: Fosse Chave: 88165 Docs: 5 6 7 8 
+Palavra: Tomara Chave: 88165 Docs: 5 6 7 8 
+Palavra: daqui Chave: 88165 Docs: 3 4 
+Palavra: consequencias Chave: 93703 Docs: 12 
+Palavra: colegio Chave: 93703 Docs: 12 
+Palavra: sempre Chave: 93703 Docs: 12 
+Palavra: Ia Chave: 93703 Docs: 12 
+Palavra: sofre Chave: 93703 Docs: 7 8 
+Palavra: entenda Chave: 93703 Docs: 4 5 6 7 8 
+Palavra: dias Chave: 93703 Docs: 3 11 
+Palavra: pra Chave: 93703 Docs: 3 12 
+Palavra: vazantes Chave: 93703 Docs: 3 4 5 6 
+Palavra: jesus Chave: 93703 Docs: 2 
+Palavra: horas, Chave: 201280 Docs: 12 
+Palavra: Boyzinhos Chave: 201280 Docs: 12 
+Palavra: nao Chave: 201280 Docs: 12 
+Palavra: "Sempre Chave: 201280 Docs: 11 
+Palavra: susto Chave: 201280 Docs: 9 10 
+Palavra: breu Chave: 201280 Docs: 7 8 
+Palavra: grassa Chave: 201280 Docs: 4 5 
+Palavra: Joao, Chave: 818035 Docs: 12 
+Palavra: Amanha Chave: 818035 Docs: 12 
+Palavra: menininhas Chave: 818035 Docs: 12 
+Palavra: primazia Chave: 818035 Docs: 9 10 
+Palavra: bonzinho Chave: 818035 Docs: 7 8 
+Palavra: pena Chave: 818035 Docs: 6 7 8 
+Palavra: Diabo Chave: 818035 Docs: 3 4 
+Palavra: rupeia Chave: 818035 Docs: 3 4 
+Palavra: madeiras Chave: 818035 Docs: 3 4 5 6 
+Palavra: primeiro Chave: 818035 Docs: 2 3 4 12 
+Palavra: cinco Chave: 27601 Docs: 12 
+Palavra: boto Chave: 27601 Docs: 12 
+Palavra: Ja Chave: 27601 Docs: 12 
+Palavra: encaveirada Chave: 27601 Docs: 7 8 
+Palavra: aragem Chave: 27601 Docs: 5 6 7 8 
+Palavra: revestido Chave: 27601 Docs: 4 5 
+Palavra: passagem Chave: 27601 Docs: 3 12 
+Palavra: pode Chave: 27601 Docs: 2 3 12 
+Palavra: usar Chave: 426718 Docs: 12 
+Palavra: bebedeira Chave: 426718 Docs: 12 
+Palavra: causa Chave: 426718 Docs: 12 
+Palavra: rebaixou Chave: 426718 Docs: 7 8 
+Palavra: mulheres Chave: 426718 Docs: 5 6 7 8 
+Palavra: livro Chave: 426718 Docs: 4 5 
+Palavra: evita Chave: 426718 Docs: 3 4 
+Palavra: risadas Chave: 426718 Docs: 2 
+Palavra: acreditou Chave: 83199 Docs: 12 
+Palavra: general Chave: 83199 Docs: 12 
+Palavra: pela Chave: 83199 Docs: 12 
+Palavra: bestificado Chave: 83199 Docs: 12 
+Palavra: De Chave: 83199 Docs: 9 12 
+Palavra: Bem Chave: 83199 Docs: 5 6 7 8 
+Palavra: contar Chave: 83199 Docs: 5 6 7 8 
+Palavra: crespos Chave: 83199 Docs: 5 6 7 8 
+Palavra: consome Chave: 83199 Docs: 5 6 7 8 
+Palavra: Mansa Chave: 83199 Docs: 3 4 
+Palavra: mocinhas Chave: 80149 Docs: 12 
+Palavra: perdeu Chave: 80149 Docs: 12 
+Palavra: perdeu Chave: 80149 Docs: 12 
+Palavra: Isso Chave: 80149 Docs: 12 
+Palavra: Pablo Chave: 80149 Docs: 12 
+Palavra: tentar Chave: 80149 Docs: 12 
+Palavra: quieta Chave: 80149 Docs: 10 
+Palavra: ordem Chave: 80149 Docs: 6 7 8 
+Palavra: internos Chave: 80149 Docs: 4 5 6 7 8 
+Palavra: hem Chave: 80149 Docs: 4 5 6 7 8 
+Palavra: ainda Chave: 80149 Docs: 3 4 5 6 
+Palavra: Uma Chave: 27492 Docs: 12 
+Palavra: cansado Chave: 27492 Docs: 12 
+Palavra: terror Chave: 27492 Docs: 12 
+Palavra: Reza Chave: 27492 Docs: 10 
+Palavra: come Chave: 27492 Docs: 6 7 8 
+Palavra: Santa Chave: 27492 Docs: 3 4 
+Palavra: foram Chave: 27492 Docs: 2 
+Palavra: mira Chave: 27492 Docs: 1 2 
+Palavra: besta Chave: 87496 Docs: 3 4 
+Palavra: dizem Chave: 87496 Docs: 3 4 
+Palavra: muitas Chave: 7041 Docs: 12 
+Palavra: meu Chave: 7041 Docs: 12 
+Palavra: sair Chave: 7041 Docs: 12 
+Palavra: caixinha Chave: 7041 Docs: 12 
+Palavra: crente Chave: 7041 Docs: 10 12 
+Palavra: Rezo Chave: 7041 Docs: 10 
+Palavra: apreceio Chave: 7041 Docs: 9 
+Palavra: jazendo Chave: 7041 Docs: 6 7 8 
+Palavra: toma Chave: 7041 Docs: 6 7 8 
+Palavra: adjutorar Chave: 7041 Docs: 4 5 
+Palavra: redobrar Chave: 7041 Docs: 4 5 6 7 8 
+Palavra: Mas Chave: 7041 Docs: 4 5 6 7 8 11 12 
+Palavra: medo Chave: 90775 Docs: 11 12 
+Palavra: Olhos Chave: 90775 Docs: 11 
+Palavra: Tanta Chave: 90775 Docs: 9 
+Palavra: sofismado Chave: 90775 Docs: 9 
+Palavra: artes Chave: 90775 Docs: 7 8 9 10 
+Palavra: minutos Chave: 90775 Docs: 4 
+Palavra: feito Chave: 90775 Docs: 1 2 
+Palavra: Curralinho Chave: 715 Docs: 9 
+Palavra: rasgar Chave: 715 Docs: 6 7 8 
+Palavra: lugares Chave: 715 Docs: 3 4 
+Palavra: carecem Chave: 715 Docs: 2 
+Palavra: Ah Chave: 715 Docs: 2 5 6 7 8 9 10 
+Palavra: organizou Chave: 30548 Docs: 12 
+Palavra: estava Chave: 30548 Docs: 12 
+Palavra: mes Chave: 30548 Docs: 12 
+Palavra: Onde Chave: 30548 Docs: 12 
+Palavra: arranjadas Chave: 30548 Docs: 9 10 
+Palavra: coitado Chave: 30548 Docs: 7 8 
+Palavra: amontar Chave: 30548 Docs: 3 4 
+Palavra: que Chave: 30548 Docs: 3 4 11 12 
+Palavra: eles Chave: 30548 Docs: 2 12 
+Palavra: Peixes Chave: 86823 Docs: 12 
+Palavra: Logo Chave: 86823 Docs: 12 
+Palavra: Gastar Chave: 86823 Docs: 12 
+Palavra: divididas Chave: 86823 Docs: 9 10 
+Palavra: receio Chave: 86823 Docs: 3 4 
+Palavra: maior Chave: 86823 Docs: 2 
+Palavra: homem Chave: 86823 Docs: 1 2 5 6 7 8 12 
+Palavra: conseguiu Chave: 28403 Docs: 12 
+Palavra: câmeras Chave: 28403 Docs: 12 
+Palavra: frequentava Chave: 28403 Docs: 12 
+Palavra: marasmo Chave: 28403 Docs: 12 
+Palavra: Tempo Chave: 28403 Docs: 9 
+Palavra: arruinado Chave: 28403 Docs: 5 6 7 8 
+Palavra: forma Chave: 28403 Docs: 4 5 6 7 
+Palavra: preso Chave: 28403 Docs: 3 4 
+Palavra: desta Chave: 28403 Docs: 3 
+Palavra: Vote Chave: 28403 Docs: 3 4 
+Palavra: aquela Chave: 19490620 Docs: 12 
+Palavra: conversa Chave: 19490620 Docs: 12 
+Palavra: Na Chave: 19490620 Docs: 12 
+Palavra: me Chave: 19490620 Docs: 11 
+Palavra: desendoidecer Chave: 19490620 Docs: 10 
+Palavra: definitivo Chave: 19490620 Docs: 9 10 
+Palavra: exortar Chave: 19490620 Docs: 9 10 
+Palavra: mesmo Chave: 19490620 Docs: 3 4 5 6 7 12 
+Palavra: Lugar Chave: 19490620 Docs: 2 
+Palavra: instantaneamente Chave: 19490620 Docs: 2 
+Palavra: ta Chave: 27501 Docs: 12 
+Palavra: bomba Chave: 27501 Docs: 12 
+Palavra: ouvia Chave: 27501 Docs: 12 
+Palavra: Cortar Chave: 27501 Docs: 12 
+Palavra: visitar Chave: 27501 Docs: 12 
+Palavra: chegando Chave: 27501 Docs: 12 
+Palavra: comprou Chave: 27501 Docs: 12 
+Palavra: pai Chave: 27501 Docs: 12 
+Palavra: Joao Chave: 27501 Docs: 12 
+Palavra: safado Chave: 27501 Docs: 9 10 
+Palavra: penando Chave: 27501 Docs: 7 8 
+Palavra: devia Chave: 27501 Docs: 5 6 7 8 
+Palavra: por Chave: 27501 Docs: 3 5 6 7 12 
+Palavra: dessas Chave: 27501 Docs: 3 4 5 6 
+Palavra: fora Chave: 27501 Docs: 2 4 
+Palavra: local Chave: 744148 Docs: 12 
+Palavra: comecou Chave: 744148 Docs: 12 
+Palavra: olhar Chave: 744148 Docs: 12 
+Palavra: faz Chave: 744148 Docs: 12 
+Palavra: Pra Chave: 744148 Docs: 12 
+Palavra: escola Chave: 744148 Docs: 12 
+Palavra: Jesus Chave: 744148 Docs: 12 
+Palavra: virtudes Chave: 744148 Docs: 9 10 
+Palavra: cartilha Chave: 744148 Docs: 9 
+Palavra: pecados Chave: 744148 Docs: 7 8 12 
+Palavra: gasturado Chave: 744148 Docs: 7 8 
+Palavra: dorme Chave: 744148 Docs: 6 7 8 
+Palavra: seja Chave: 744148 Docs: 4 5 
+Palavra: quinze Chave: 744148 Docs: 2 12 
+Palavra: mocidade Chave: 744148 Docs: 1 2 
+Palavra: frente Chave: 27955 Docs: 12 
+Palavra: saudade Chave: 27955 Docs: 12 
+Palavra: traficante, Chave: 27955 Docs: 12 
+Palavra: Ganhava Chave: 27955 Docs: 12 
+Palavra: acesas Chave: 27955 Docs: 11 
+Palavra: Nao Chave: 27955 Docs: 11 12 
+Palavra: gradas Chave: 27955 Docs: 9 10 
+Palavra: proseou Chave: 27955 Docs: 4 5 
+Palavra: dele Chave: 27955 Docs: 2 3 4 
+Palavra: voltou Chave: 1432207 Docs: 12 
+Palavra: tao Chave: 1432207 Docs: 11 
+Palavra: metodista Chave: 1432207 Docs: 10 
+Palavra: conferindo Chave: 1432207 Docs: 4 5 
+Palavra: estude Chave: 1432207 Docs: 3 4 
+Palavra: Enfim Chave: 1432207 Docs: 3 4 5 6 
+Palavra: criminoso Chave: 1432207 Docs: 2 
+Palavra: festa Chave: 217458 Docs: 12 
+Palavra: ele: Chave: 217458 Docs: 12 
+Palavra: aumentou Chave: 217458 Docs: 12 
+Palavra: magreza Chave: 217458 Docs: 7 8 
+Palavra: azangada Chave: 217458 Docs: 6 7 8 
+Palavra: declare Chave: 217458 Docs: 5 6 7 8 
+Palavra: fim Chave: 217458 Docs: 2 
+Palavra: acerto Chave: 217458 Docs: 1 2 
+Palavra: maconheiro Chave: 83554 Docs: 12 
+Palavra: conhecia Chave: 83554 Docs: 12 
+Palavra: sentir Chave: 83554 Docs: 12 
+Palavra: curial Chave: 83554 Docs: 10 
+Palavra: Detesto Chave: 83554 Docs: 10 
+Palavra: cristão Chave: 83554 Docs: 10 
+Palavra: principalmente Chave: 83554 Docs: 10 
+Palavra: Diverjo Chave: 83554 Docs: 9 10 
+Palavra: parece Chave: 83554 Docs: 6 7 8 
+Palavra: rua Chave: 83554 Docs: 6 
+Palavra: rua Chave: 83554 Docs: 5 7 8 
+Palavra: viagem Chave: 83554 Docs: 4 5 6 7 8 
+Palavra: Causa Chave: 83554 Docs: 1 2 
+Palavra: sabado Chave: 5185279 Docs: 12 
+Palavra: hora Chave: 5185279 Docs: 12 
+Palavra: embora, Chave: 5185279 Docs: 12 
+Palavra: resposta Chave: 5185279 Docs: 12 
+Palavra: aceitou Chave: 5185279 Docs: 12 
+Palavra: jovens Chave: 5185279 Docs: 11 
+Palavra: temos Chave: 5185279 Docs: 11 
+Palavra: forro Chave: 5185279 Docs: 9 10 
+Palavra: mestre Chave: 5185279 Docs: 9 
+Palavra: faces Chave: 5185279 Docs: 6 7 8 
+Palavra: pessoalmente Chave: 5185279 Docs: 4 5 
+Palavra: amigos, Chave: 435664 Docs: 12 
+Palavra: muita Chave: 435664 Docs: 12 
+Palavra: tempestade Chave: 435664 Docs: 11 
+Palavra: tece Chave: 435664 Docs: 9 10 
+Palavra: venenosas Chave: 435664 Docs: 6 7 8 
+Palavra: Hem Chave: 435664 Docs: 6 
+Palavra: Hem Chave: 435664 Docs: 6 7 8 10 
+Palavra: descanso Chave: 435664 Docs: 5 6 7 8 
+Palavra: preta Chave: 435664 Docs: 4 5 10 
+Palavra: forme Chave: 435664 Docs: 4 5 6 7 
+Palavra: deste Chave: 435664 Docs: 4 5 6 7 
+Palavra: Ainda Chave: 435664 Docs: 3 4 12 
+Palavra: capeta Chave: 435664 Docs: 3 4 
+Palavra: Curvelo Chave: 435664 Docs: 2 
+Palavra: burguesia Chave: 6830 Docs: 12 
+Palavra: protejo Chave: 6830 Docs: 12 
+Palavra: sua Chave: 6830 Docs: 12 
+Palavra: esse Chave: 6830 Docs: 11 
+Palavra: lei Chave: 6830 Docs: 9 10 
+Palavra: capricho Chave: 6830 Docs: 9 
+Palavra: tosse Chave: 6830 Docs: 7 8 
+Palavra: afiada Chave: 6830 Docs: 6 7 8 
+Palavra: comodidade Chave: 6830 Docs: 6 7 8 
+Palavra: Corinto Chave: 6830 Docs: 2 
+Palavra: nem Chave: 6830 Docs: 2 12 
+Palavra: viram Chave: 219271 Docs: 12 
+Palavra: vao Chave: 219271 Docs: 12 
+Palavra: influencia Chave: 219271 Docs: 12 
+Palavra: repente, Chave: 219271 Docs: 12 
+Palavra: precisando Chave: 219271 Docs: 12 
+Palavra: distantes Chave: 219271 Docs: 11 
+Palavra: embrenho Chave: 219271 Docs: 10 
+Palavra: assina Chave: 219271 Docs: 9 10 
+Palavra: doce Chave: 219271 Docs: 6 7 8 
+Palavra: Nunca Chave: 219271 Docs: 5 6 7 8 12 
+Palavra: terras Chave: 219271 Docs: 2 
+Palavra: campos Chave: 219271 Docs: 2 
+Palavra: estupro Chave: 30110 Docs: 12 
+Palavra: Meu Chave: 30110 Docs: 12 
+Palavra: ali Chave: 30110 Docs: 12 
+Palavra: esqueco Chave: 30110 Docs: 11 
+Palavra: peitos Chave: 30110 Docs: 7 8 
+Palavra: ouvir Chave: 30110 Docs: 3 
+Palavra: ouvir Chave: 30110 Docs: 3 4 
+Palavra: aos Chave: 30110 Docs: 3 12 
+Palavra: demo Chave: 30110 Docs: 2 3 4 6 7 8 
+Palavra: arrependeu Chave: 91583 Docs: 12 
+Palavra: Lucia, Chave: 91583 Docs: 12 
+Palavra: faco Chave: 91583 Docs: 12 
+Palavra: roubo Chave: 91583 Docs: 12 
+Palavra: perder Chave: 91583 Docs: 12 
+Palavra: todas Chave: 91583 Docs: 12 
+Palavra: Juntou Chave: 91583 Docs: 12 
+Palavra: sentia Chave: 91583 Docs: 12 
+Palavra: professor Chave: 91583 Docs: 12 
+Palavra: seu Chave: 91583 Docs: 12 
+Palavra: reumatismo Chave: 91583 Docs: 9 10 
+Palavra: matos Chave: 91583 Docs: 9 10 
+Palavra: custante Chave: 91583 Docs: 4 5 6 7 8 
+Palavra: baixo Chave: 91583 Docs: 1 2 
+Palavra: circo, Chave: 1295147 Docs: 12 
+Palavra: armas Chave: 1295147 Docs: 12 
+Palavra: indecorosa Chave: 1295147 Docs: 12 
+Palavra: colocavam Chave: 1295147 Docs: 12 
+Palavra: encomenda Chave: 1295147 Docs: 10 
+Palavra: ao Chave: 446292 Docs: 12 
+Palavra: entrar Chave: 446292 Docs: 12 
+Palavra: escolheu Chave: 446292 Docs: 12 
+Palavra: soldado Chave: 446292 Docs: 12 
+Palavra: todos Chave: 446292 Docs: 12 
+Palavra: chega Chave: 446292 Docs: 11 
+Palavra: Matias Chave: 446292 Docs: 10 
+Palavra: maria Chave: 446292 Docs: 4 5 
+Palavra: Que Chave: 446292 Docs: 3 4 11 12 
+Palavra: bezerro Chave: 446292 Docs: 1 
+Palavra: bezerro Chave: 446292 Docs: 1 2 
+Palavra: teu Chave: 4463 Docs: 12 
+Palavra: dizia Chave: 4463 Docs: 12 
+Palavra: dessa Chave: 4463 Docs: 11 
+Palavra: virtude Chave: 4463 Docs: 10 
+Palavra: vivo Chave: 4463 Docs: 4 
+Palavra: vivo Chave: 4463 Docs: 4 5 
+Palavra: porfalando Chave: 4463 Docs: 3 4 
+Palavra: tiro Chave: 4463 Docs: 2 12 
+Palavra: QUE Chave: 4463 Docs: 2 
+Palavra: acabou Chave: 414767 Docs: 12 
+Palavra: mapas Chave: 414767 Docs: 9 
+Palavra: pagava Chave: 414767 Docs: 7 8 
+Palavra: pior Chave: 414767 Docs: 6 7 8 
+Palavra: aparecido Chave: 414767 Docs: 4 
+Palavra: em Chave: 414767 Docs: 3 4 11 12 
+Palavra: dez Chave: 414767 Docs: 2 12 
+Palavra: Alvejei Chave: 414767 Docs: 1 2 
+Palavra: tresmalho Chave: 6160 Docs: 10 
+Palavra: saber Chave: 6160 Docs: 9 
+Palavra: Governo Chave: 6160 Docs: 9 10 
+Palavra: franzido Chave: 6160 Docs: 6 7 8 
+Palavra: torar Chave: 6160 Docs: 2 
+Palavra: rindo Chave: 6160 Docs: 1 2 
+Palavra: Mesmo Chave: 6160 Docs: 1 
+Palavra: Me Chave: 6160 Docs: 1 2 
+Palavra: dia Chave: 6160 Docs: 1 2 4 12 
+Palavra: Chegando Chave: 406294 Docs: 12 
+Palavra: conheceu Chave: 406294 Docs: 12 
+Palavra: plantacao Chave: 406294 Docs: 12 
+Palavra: se Chave: 406294 Docs: 3 11 12 
+Palavra: Toleima Chave: 406294 Docs: 2 
+Palavra: Comecou Chave: 194533 Docs: 12 
+Palavra: maluco Chave: 194533 Docs: 12 
+Palavra: vai Chave: 194533 Docs: 12 
+Palavra: sol Chave: 194533 Docs: 11 12 
+Palavra: secos Chave: 194533 Docs: 7 8 
+Palavra: pedras Chave: 194533 Docs: 6 7 8 
+Palavra: desejo Chave: 194533 Docs: 6 7 8 
+Palavra: nenhum Chave: 194533 Docs: 5 6 7 8 9 10 12 
+Palavra: estabelecido Chave: 194533 Docs: 4 5 
+Palavra: figurava Chave: 194533 Docs: 1 2 
+Palavra: esteja Chave: 194533 Docs: 1 2 
+Palavra: dos Chave: 30119 Docs: 11 12 
+Palavra: Inveja Chave: 30119 Docs: 7 8 
+Palavra: respeito Chave: 30119 Docs: 4 5 6 7 8 
+Palavra: empresa Chave: 30119 Docs: 3 4 
+Palavra: topar Chave: 30119 Docs: 2 
+Palavra: rumo Chave: 30119 Docs: 2 
+Palavra: cachorrada Chave: 30119 Docs: 2 
+Palavra: Dono Chave: 30119 Docs: 2 
+Palavra: bandido Chave: 27521 Docs: 12 
+Palavra: acontece Chave: 27521 Docs: 12 
+Palavra: te Chave: 27521 Docs: 12 
+Palavra: explico Chave: 27521 Docs: 10 
+Palavra: mudas Chave: 27521 Docs: 6 7 8 
+Palavra: Rita Chave: 27521 Docs: 3 4 
+Palavra: fez Chave: 1348040 Docs: 12 
+Palavra: (O Chave: 1348040 Docs: 12 
+Palavra: revendia Chave: 1348040 Docs: 12 
+Palavra: tambem Chave: 1348040 Docs: 12 
+Palavra: Pablo, Chave: 1348040 Docs: 12 
+Palavra: Comia Chave: 1348040 Docs: 12 
+Palavra: Lembro Chave: 1348040 Docs: 11 
+Palavra: analfabeto Chave: 1348040 Docs: 9 
+Palavra: blimbilim Chave: 1348040 Docs: 7 8 
+Palavra: padre Chave: 1348040 Docs: 4 5 9 10 
+Palavra: paramenta Chave: 1348040 Docs: 4 5 
+Palavra: junto Chave: 6844 Docs: 12 
+Palavra: suspende Chave: 6844 Docs: 10 
+Palavra: feio Chave: 6844 Docs: 7 8 
+Palavra: caindo Chave: 6844 Docs: 5 6 7 8 
+Palavra: do Chave: 6844 Docs: 4 11 12 
+Palavra: tamanho Chave: 6844 Docs: 3 4 5 6 
+Palavra: bom Chave: 6844 Docs: 3 4 5 6 12 
+Palavra: Violencia Chave: 210358 Docs: 12 
+Palavra: sem Chave: 210358 Docs: 12 
+Palavra: brincar Chave: 210358 Docs: 12 
+Palavra: Temos Chave: 210358 Docs: 11 
+Palavra: tracei Chave: 210358 Docs: 9 
+Palavra: Mestre Chave: 210358 Docs: 9 
+Palavra: terra Chave: 210358 Docs: 5 6 7 8 
+Palavra: campo Chave: 210358 Docs: 5 6 7 8 
+Palavra: nestes Chave: 210358 Docs: 3 
+Palavra: passar Chave: 210358 Docs: 3 4 
+Palavra: a Chave: 210358 Docs: 3 11 12 
+Palavra: render Chave: 210358 Docs: 3 4 5 6 
+Palavra: inferno Chave: 200076 Docs: 12 
+Palavra: prometido, Chave: 200076 Docs: 11 
+Palavra: chorinho Chave: 200076 Docs: 3 4 
+Palavra: nome Chave: 200076 Docs: 3 4 12 
+Palavra: pessoa Chave: 200076 Docs: 1 5 6 7 8 
+Palavra: olhada Chave: 6169 Docs: 12 
+Palavra: cegou Chave: 6169 Docs: 12 
+Palavra: estou Chave: 6169 Docs: 12 
+Palavra: com Chave: 6169 Docs: 12 
+Palavra: Nem Chave: 6169 Docs: 11 
+Palavra: carne Chave: 6169 Docs: 9 10 
+Palavra: Sua Chave: 6169 Docs: 5 6 7 8 
+Palavra: falar Chave: 6848 Docs: 12 
+Palavra: povo Chave: 6848 Docs: 12 
+Palavra: Ceilândia, Chave: 6848 Docs: 12 
+Palavra: melhor Chave: 6848 Docs: 12 
+Palavra: Deixou Chave: 6848 Docs: 12 
+Palavra: ninguem Chave: 6848 Docs: 11 
+Palavra: cantando Chave: 6848 Docs: 10 
+Palavra: oestes Chave: 6848 Docs: 2 
+Palavra: tem Chave: 6848 Docs: 2 3 4 
+Palavra: segunda Chave: 84706 Docs: 12 
+Palavra: pegar Chave: 84706 Docs: 12 
+Palavra: indo Chave: 84706 Docs: 12 
+Palavra: achar Chave: 84706 Docs: 12 
+Palavra: Aos Chave: 84706 Docs: 12 
+Palavra: Veja Chave: 84706 Docs: 11 
+Palavra: escorvas Chave: 84706 Docs: 9 
+Palavra: escorvas Chave: 84706 Docs: 9 10 
+Palavra: assente Chave: 84706 Docs: 9 10 
+Palavra: mulher Chave: 84706 Docs: 7 8 
+Palavra: tortas Chave: 84706 Docs: 6 7 8 
+Palavra: estado Chave: 84706 Docs: 5 6 7 8 
+Palavra: vige Chave: 84706 Docs: 5 6 7 
+Palavra: perdi Chave: 84706 Docs: 4 5 
+Palavra: homem, Chave: 89566 Docs: 12 
+Palavra: Voces Chave: 89566 Docs: 12 
+Palavra: Seu Chave: 89566 Docs: 12 
+Palavra: classe Chave: 89566 Docs: 12 
+Palavra: Sentia Chave: 89566 Docs: 12 
+Palavra: decorei Chave: 89566 Docs: 9 
+Palavra: barranco Chave: 89566 Docs: 5 6 7 8 
+Palavra: ele Chave: 89566 Docs: 3 4 5 6 7 12 
+Palavra: altas Chave: 89566 Docs: 2 
+Palavra: virou Chave: 207313 Docs: 12 
+Palavra: jornal Chave: 207313 Docs: 12 
+Palavra: porta Chave: 207313 Docs: 12 
+Palavra: morte Chave: 207313 Docs: 12 
+Palavra: roubar Chave: 207313 Docs: 12 
+Palavra: crianca Chave: 207313 Docs: 12 
+Palavra: cursar Chave: 207313 Docs: 9 
+Palavra: bruto Chave: 207313 Docs: 6 7 8 
+Palavra: corpo Chave: 207313 Docs: 4 5 
+Palavra: lhe Chave: 207313 Docs: 4 5 12 
+Palavra: capaz Chave: 207313 Docs: 4 
+Palavra: sei Chave: 207313 Docs: 2 
+Palavra: branco Chave: 207313 Docs: 1 2 
+Palavra: passa Chave: 216015 Docs: 12 
+Palavra: Maria Chave: 216015 Docs: 12 
+Palavra: comeco Chave: 216015 Docs: 12 
+Palavra: entendia Chave: 216015 Docs: 12 
+Palavra: Todos Chave: 216015 Docs: 11 
+Palavra: Raciocinar Chave: 216015 Docs: 9 10 
+Palavra: sertanejo Chave: 216015 Docs: 7 8 
+Palavra: depois Chave: 216015 Docs: 2 
+Palavra: costas Chave: 443033 Docs: 12 
+Palavra: Capitao Chave: 443033 Docs: 12 
+Palavra: dava Chave: 443033 Docs: 12 
+Palavra: Dizia Chave: 443033 Docs: 12 
+Palavra: doze Chave: 443033 Docs: 12 
+Palavra: estragam Chave: 443033 Docs: 6 7 8 
+Palavra: seguidas Chave: 443033 Docs: 6 7 8 
+Palavra: cachoeira Chave: 443033 Docs: 5 
+Palavra: cachoeira Chave: 443033 Docs: 5 6 7 8 
+Palavra: paz Chave: 443033 Docs: 4 5 6 7 8 
+Palavra: corre Chave: 443033 Docs: 3 4 5 6 
+Palavra: vargens Chave: 443033 Docs: 3 4 5 6 
+Palavra: Dizendo Chave: 128216 Docs: 12 
+Palavra: Jeremias, Chave: 128216 Docs: 12 
+Palavra: vem Chave: 128216 Docs: 12 
+Palavra: quero Chave: 128216 Docs: 12 
+Palavra: filho Chave: 128216 Docs: 12 
+Palavra: aqui Chave: 128216 Docs: 12 
+Palavra: desconfio Chave: 128216 Docs: 9 10 
+Palavra: prazer Chave: 128216 Docs: 7 8 
+Palavra: nele Chave: 128216 Docs: 4 5 
+Palavra: vinte Chave: 128216 Docs: 4 
+Palavra: Em Chave: 128216 Docs: 3 4 5 
+Palavra: gosto Chave: 128216 Docs: 1 2 
+Palavra: NONADA Chave: 128216 Docs: 1 2 
+Palavra: morreu Chave: 866 Docs: 12 
+Palavra: sob Chave: 866 Docs: 12 
+Palavra: luzes Chave: 866 Docs: 11 12 
+Palavra: pouquim Chave: 866 Docs: 7 8 
+Palavra: entisicou Chave: 866 Docs: 7 8 
+Palavra: estranhez Chave: 866 Docs: 6 7 8 
+Palavra: retombando Chave: 866 Docs: 5 6 7 8 
+Palavra: Dou Chave: 866 Docs: 5 6 7 8 
+Palavra: as Chave: 866 Docs: 3 11 12 
+Palavra: vivera Chave: 27422 Docs: 12 
+Palavra: Se Chave: 27422 Docs: 12 
+Palavra: futuro Chave: 27422 Docs: 12 
+Palavra: ela Chave: 27422 Docs: 12 
+Palavra: decidiu Chave: 27422 Docs: 12 
+Palavra: dinheiro Chave: 27422 Docs: 12 
+Palavra: alma Chave: 27422 Docs: 10 
+Palavra: Vito Chave: 27422 Docs: 9 10 
+Palavra: latim Chave: 27422 Docs: 9 
+Palavra: senhorleitura Chave: 27422 Docs: 7 
+Palavra: ajudar Chave: 27422 Docs: 3 4 12 
+Palavra: convive Chave: 27422 Docs: 3 4 
+Palavra: gerais Chave: 27422 Docs: 2 3 4 5 6 
+Palavra: ri Chave: 27422 Docs: 2 
+Palavra: cara Chave: 27422 Docs: 2 
+Palavra: sete Chave: 213760 Docs: 12 
+Palavra: mandado Chave: 213760 Docs: 12 
+Palavra: diz Chave: 213760 Docs: 11 12 
+Palavra: manha Chave: 213760 Docs: 11 
+Palavra: e Chave: 213760 Docs: 11 12 
+Palavra: viver Chave: 213760 Docs: 9 10 
+Palavra: chorando Chave: 213760 Docs: 7 8 
+Palavra: Nenhum Chave: 213760 Docs: 5 6 7 8 
+Palavra: rezas Chave: 213760 Docs: 4 5 
+Palavra: nasceu Chave: 213760 Docs: 1 2 
+Palavra: medico, Chave: 202348 Docs: 12 
+Palavra: vale Chave: 202348 Docs: 10 
+Palavra: costeava Chave: 202348 Docs: 4 
+Palavra: assim Chave: 202348 Docs: 3 
+Palavra: escuta Chave: 202348 Docs: 3 4 
+Palavra: brinque Chave: 82569 Docs: 12 
+Palavra: rodoviaria, Chave: 82569 Docs: 12 
+Palavra: aquietar Chave: 82569 Docs: 9 10 
+Palavra: charadas Chave: 82569 Docs: 9 10 
+Palavra: esbarram Chave: 82569 Docs: 7 8 
+Palavra: neste Chave: 82569 Docs: 7 8 
+Palavra: criaturas Chave: 82569 Docs: 5 6 7 8 
+Palavra: si Chave: 82569 Docs: 5 6 7 
+Palavra: Explico Chave: 82569 Docs: 5 6 7 
+Palavra: Essas Chave: 82569 Docs: 5 6 7 8 
+Palavra: agora Chave: 82569 Docs: 3 
+Palavra: diga Chave: 82569 Docs: 3 
+Palavra: desde Chave: 82569 Docs: 1 2 
+Palavra: olhou Chave: 424508 Docs: 12 
+Palavra: Fez Chave: 424508 Docs: 12 
+Palavra: aprendiz Chave: 424508 Docs: 12 
+Palavra: chefe Chave: 424508 Docs: 9 10 
+Palavra: moral Chave: 424508 Docs: 9 10 
+Palavra: igual Chave: 424508 Docs: 7 8 
+Palavra: pudesse Chave: 424508 Docs: 6 7 8 
+Palavra: avessos Chave: 424508 Docs: 5 6 7 8 
+Palavra: vias Chave: 424508 Docs: 3 4 
+Palavra: situado Chave: 424508 Docs: 2 
+Palavra: sofrer. Chave: 212860 Docs: 12 
+Palavra: nisso Chave: 212860 Docs: 12 
+Palavra: trouxe Chave: 212860 Docs: 12 
+Palavra: menina Chave: 212860 Docs: 12 
+Palavra: vida Chave: 212860 Docs: 12 
+Palavra: doutrina Chave: 212860 Docs: 10 
+Palavra: custosa Chave: 212860 Docs: 7 8 
+Palavra: bico Chave: 212860 Docs: 6 7 8 
+Palavra: replantada Chave: 212860 Docs: 6 7 8 
+Palavra: Solto Chave: 212860 Docs: 5 6 7 8 
+Palavra: digo Chave: 212860 Docs: 4 5 6 7 8 
+Palavra: gloso Chave: 212860 Docs: 3 4 
+Palavra: Do Chave: 212860 Docs: 3 4 
+Palavra: certas Chave: 212860 Docs: 2 6 7 8 
+Palavra: Sem Chave: 205064 Docs: 12 
+Palavra: planos Chave: 205064 Docs: 12 
+Palavra: Trabalhado Chave: 205064 Docs: 12 
+Palavra: A Chave: 205064 Docs: 11 12 
+Palavra: foi Chave: 205064 Docs: 11 12 
+Palavra: boa Chave: 205064 Docs: 9 10 
+Palavra: tossura Chave: 205064 Docs: 7 8 
+Palavra: fundo Chave: 205064 Docs: 6 7 8 
+Palavra: viu Chave: 205064 Docs: 1 2 12 
+Palavra: vieram Chave: 205064 Docs: 1 2 
+Palavra: entao Chave: 1401622 Docs: 12 
+Palavra: Bolivia Chave: 1401622 Docs: 12 
+Palavra: franco Chave: 1401622 Docs: 5 6 7 8 
+Palavra: senhor Chave: 1401622 Docs: 2 3 4 5 6 7 8 9 10 12 
+Palavra: emprestar Chave: 1401622 Docs: 2 
+Palavra: naquela Chave: 90710 Docs: 12 
+Palavra: Com Chave: 90710 Docs: 12 
+Palavra: Elaborou Chave: 90710 Docs: 12 
+Palavra: Estou Chave: 90710 Docs: 12 
+Palavra: diziam Chave: 90710 Docs: 12 
+Palavra: Inda Chave: 90710 Docs: 9 
+Palavra: motivos Chave: 90710 Docs: 6 7 8 
+Palavra: sabe Chave: 90710 Docs: 4 
+Palavra: jura Chave: 90710 Docs: 3 4 
+Palavra: falso Chave: 90710 Docs: 3 4 
+Palavra: puta, Chave: 6752 Docs: 12 
+Palavra: acabo Chave: 6752 Docs: 12 
+Palavra: incerto Chave: 6752 Docs: 12 
+Palavra: loucura Chave: 6752 Docs: 10 
+Palavra: errei Chave: 6752 Docs: 9 10 
+Palavra: Melhor Chave: 6752 Docs: 6 7 8 
+Palavra: Tem Chave: 6752 Docs: 5 6 7 12 
+Palavra: meio Chave: 6752 Docs: 4 5 6 7 8 9 12 
+Palavra: Povo Chave: 6752 Docs: 2 
+Palavra: defeito Chave: 6752 Docs: 1 2 
+Palavra: mal Chave: 6752 Docs: 1 2 4 7 8 
+Palavra: Olha Chave: 401801 Docs: 12 
+Palavra: duas Chave: 401801 Docs: 12 
+Palavra: irmao. Chave: 401801 Docs: 12 
+Palavra: bastardo Chave: 401801 Docs: 12 
+Palavra: odio Chave: 401801 Docs: 12 
+Palavra: Estado Chave: 401801 Docs: 4 5 6 7 8 
+Palavra: mangar Chave: 401801 Docs: 4 5 6 7 8 
+Palavra: clareia Chave: 401801 Docs: 4 5 6 7 8 
+Palavra: traficante Chave: 154671 Docs: 12 
+Palavra: embebedou Chave: 154671 Docs: 12 
+Palavra: funcionava Chave: 154671 Docs: 12 
+Palavra: Ele Chave: 154671 Docs: 12 
+Palavra: hinos Chave: 154671 Docs: 10 
+Palavra: exemplos Chave: 154671 Docs: 9 10 
+Palavra: navego Chave: 154671 Docs: 7 8 
+Palavra: emendado Chave: 154671 Docs: 7 8 
+Palavra: invocar Chave: 154671 Docs: 4 5 6 7 8 
+Palavra: ouviu Chave: 154671 Docs: 1 2 
+Palavra: SENHOR Chave: 154671 Docs: 1 2 
+Palavra: estrelas, Chave: 6529 Docs: 12 
+Palavra: E, Chave: 6529 Docs: 12 
+Palavra: ladino Chave: 6529 Docs: 9 
+Palavra: perversidades Chave: 6529 Docs: 7 8 
+Palavra: cobra Chave: 6529 Docs: 6 7 8 
+Palavra: vi Chave: 6529 Docs: 5 6 7 
+Palavra: desfaz Chave: 6529 Docs: 5 6 7 8 
+Palavra: Sei Chave: 6529 Docs: 4 5 
+Palavra: historia Chave: 26870 Docs: 12 
+Palavra: sorte Chave: 26870 Docs: 9 
+Palavra: nega Chave: 26870 Docs: 3 4 
+Palavra: palavras Chave: 428699 Docs: 12 
+Palavra: bagulho Chave: 428699 Docs: 12 
+Palavra: encontrou Chave: 428699 Docs: 12 
+Palavra: afamam Chave: 428699 Docs: 10 
+Palavra: preces Chave: 428699 Docs: 10 
+Palavra: engolir Chave: 428699 Docs: 6 7 8 
+Palavra: formato Chave: 428699 Docs: 6 7 8 
+Palavra: Evangelhos Chave: 428699 Docs: 4 5 
+Palavra: arrocho Chave: 428699 Docs: 2 
+Palavra: voce, Chave: 794933 Docs: 12 
+Palavra: cu Chave: 794933 Docs: 12 
+Palavra: carpinteiro Chave: 794933 Docs: 12 
+Palavra: fica Chave: 794933 Docs: 7 8 12 
+Palavra: feliz Chave: 794933 Docs: 6 7 8 
+Palavra: cascavel Chave: 794933 Docs: 6 7 8 
+Palavra: valia Chave: 794933 Docs: 5 6 7 8 
+Palavra: seminarista Chave: 794933 Docs: 4 5 
+Palavra: nos Chave: 794933 Docs: 4 5 
+Palavra: cabeceiras Chave: 794933 Docs: 4 
+Palavra: deixando Chave: 794933 Docs: 3 
+Palavra: Deus, Chave: 89136 Docs: 12 
+Palavra: nascendo Chave: 89136 Docs: 9 10 
+Palavra: carinha Chave: 89136 Docs: 7 8 
+Palavra: porco Chave: 89136 Docs: 6 7 8 12 
+Palavra: pelas Chave: 89136 Docs: 4 5 6 7 12 
+Palavra: Ela Chave: 27326 Docs: 12 
+Palavra: fico Chave: 27326 Docs: 12 
+Palavra: Mindubim Chave: 27326 Docs: 10 
+Palavra: Alma Chave: 27326 Docs: 7 8 
+Palavra: tenho Chave: 27326 Docs: 2 11 
+Palavra: Cara Chave: 27326 Docs: 2 
+Palavra: sorveteiro Chave: 408363 Docs: 12 
+Palavra: madeira, Chave: 408363 Docs: 12 
+Palavra: ossos Chave: 408363 Docs: 7 8 
+Palavra: talhar Chave: 408363 Docs: 6 7 8 
+Palavra: brava Chave: 408363 Docs: 6 7 8 
+Palavra: Viver Chave: 408363 Docs: 5 6 7 8 
+Palavra: Cujo Chave: 408363 Docs: 4 5 
+Palavra: E Chave: 408363 Docs: 3 4 11 12 
+Palavra: no Chave: 408363 Docs: 3 12 
+Palavra: Urucuia Chave: 408363 Docs: 2 
+Palavra: via-crucis Chave: 26876 Docs: 12 
+Palavra: comecasse Chave: 26876 Docs: 12 
+Palavra: Vale Chave: 26876 Docs: 10 
+Palavra: sacerdote Chave: 26876 Docs: 9 10 
+Palavra: melancolias Chave: 26876 Docs: 5 6 7 8 
+Palavra: bastava Chave: 26876 Docs: 4 
+Palavra: autoridade Chave: 26876 Docs: 2 
+Palavra: pega Chave: 26876 Docs: 2 
+Palavra: temido Chave: 80552 Docs: 12 
+Palavra: rock, Chave: 80552 Docs: 12 
+Palavra: plano Chave: 80552 Docs: 12 
+Palavra: Neste Chave: 80552 Docs: 12 
+Palavra: Agora Chave: 80552 Docs: 6 7 8 12 
+Palavra: mandioca Chave: 80552 Docs: 6 7 8 
+Palavra: trem Chave: 80552 Docs: 5 6 7 8 
+Palavra: menino Chave: 80552 Docs: 5 6 7 8 
+Palavra: Diga Chave: 80552 Docs: 4 5 6 7 8 
+Palavra: nascentes Chave: 80552 Docs: 4 5 6 7 8 
+Palavra: Rio Chave: 80552 Docs: 4 5 6 7 8 
+Palavra: teria Chave: 80552 Docs: 4 
+Palavra: completar Chave: 80552 Docs: 3 4 
+Palavra: briga Chave: 80552 Docs: 1 2 
+Palavra: ver, Chave: 888 Docs: 12 
+Palavra: peruano Chave: 888 Docs: 12 
+Palavra: Soletrei Chave: 888 Docs: 9 
+Palavra: mortal Chave: 888 Docs: 6 7 8 
+Palavra: sabia Chave: 888 Docs: 5 6 7 8 12 
+Palavra: Pois Chave: 888 Docs: 4 5 6 7 8 
+Palavra: pergunte Chave: 888 Docs: 3 4 
+Palavra: cada Chave: 888 Docs: 3 4 5 6 
+Palavra: morador Chave: 888 Docs: 2 
+Palavra: eu Chave: 888 Docs: 1 2 4 5 6 7 8 12 
+Palavra: sabendo Chave: 83492 Docs: 12 
+Palavra: ministro Chave: 83492 Docs: 12 
+Palavra: ate Chave: 83492 Docs: 12 
+Palavra: cercania Chave: 83492 Docs: 12 
+Palavra: solte Chave: 83492 Docs: 9 10 
+Palavra: seguir Chave: 83492 Docs: 6 7 8 
+Palavra: quase Chave: 83492 Docs: 4 5 
+Palavra: Apre Chave: 83492 Docs: 3 4 
+Palavra: existe Chave: 83492 Docs: 3 4 5 6 7 
+Palavra: volta Chave: 83492 Docs: 3 4 5 6 
+Palavra: filha Chave: 30157 Docs: 12 
+Palavra: Foi Chave: 30157 Docs: 12 
+Palavra: abraca Chave: 30157 Docs: 11 
+Palavra: ruim Chave: 30157 Docs: 6 7 8 
+Palavra: normal Chave: 30157 Docs: 4 
+Palavra: culturas Chave: 30157 Docs: 3 4 5 6 
+Palavra: Vieram Chave: 30157 Docs: 2 
+Palavra: como Chave: 30157 Docs: 1 11 12 
+Palavra: filmava Chave: 6880 Docs: 12 
+Palavra: Entao Chave: 6880 Docs: 11 12 
+Palavra: divertimento Chave: 6880 Docs: 4 
+Palavra: Senhor Chave: 6880 Docs: 3 4 
+Palavra: dum Chave: 6880 Docs: 1 2 4 6 7 8 
+Palavra: playboy Chave: 780931 Docs: 12 
+Palavra: trazia Chave: 780931 Docs: 12 
+Palavra: misturado Chave: 780931 Docs: 8 
+Palavra: misturado Chave: 780931 Docs: 8 
+Palavra: querer Chave: 780931 Docs: 4 5 6 7 
+Palavra: cavalo Chave: 780931 Docs: 4 7 8 
+Palavra: obrigado Chave: 780931 Docs: 3 4 
+Palavra: velho Chave: 28352 Docs: 12 
+Palavra: ficou Chave: 28352 Docs: 12 
+Palavra: arrepare Chave: 28352 Docs: 6 7 8 
+Palavra: Mal Chave: 28352 Docs: 6 7 8 
+Palavra: quem Chave: 28352 Docs: 3 4 12 
+Palavra: desfalam Chave: 28352 Docs: 3 4 
+Palavra: cedi Chave: 28352 Docs: 2 
+Palavra: sou Chave: 210170 Docs: 12 
+Palavra: estamos Chave: 210170 Docs: 11 
+Palavra: rezar Chave: 210170 Docs: 10 
+Palavra: significado Chave: 210170 Docs: 6 7 8 
+Palavra: satanazim Chave: 210170 Docs: 3 4 
+Palavra: mundo Chave: 210170 Docs: 3 4 6 7 8 9 10 12 
+Palavra: mata Chave: 210170 Docs: 3 4 5 6 7 8 
+Palavra: vive Chave: 210170 Docs: 2 
+Palavra: minhas Chave: 210170 Docs: 2 
+Palavra: santo Chave: 792460 Docs: 12 
+Palavra: ca Chave: 792460 Docs: 12 
+Palavra: Apareceu Chave: 792460 Docs: 12 
+Palavra: sexta-feira Chave: 792460 Docs: 12 
+Palavra: direto Chave: 792460 Docs: 12 
+Palavra: coisas Chave: 792460 Docs: 12 
+Palavra: belo Chave: 792460 Docs: 11 
+Palavra: velhice Chave: 792460 Docs: 5 6 7 8 9 10 
+Palavra: Vereda Chave: 792460 Docs: 3 4 
+Palavra: grossura Chave: 792460 Docs: 3 4 5 6 
+Palavra: mato Chave: 896 Docs: 12 
+Palavra: voce Chave: 896 Docs: 12 
+Palavra: aquilo Chave: 896 Docs: 12 
+Palavra: este Chave: 896 Docs: 5 6 7 8 
+Palavra: anunciou Chave: 896 Docs: 4 
+Palavra: Chico Chave: 896 Docs: 4 
+Palavra: toda Chave: 896 Docs: 3 4 6 12 
+Palavra: cristo Chave: 896 Docs: 2 
+Palavra: quando Chave: 896 Docs: 2 3 11 12 
+Palavra: um Chave: 896 Docs: 2 3 4 12 
+Palavra: lote Chave: 31294 Docs: 12 
+Palavra: arma Chave: 31294 Docs: 12 
+Palavra: Distrito Chave: 31294 Docs: 12 
+Palavra: usos Chave: 31294 Docs: 5 6 7 8 
+Palavra: tal Chave: 31294 Docs: 4 5 6 7 12 
+Palavra: era Chave: 31294 Docs: 2 5 6 7 12 
+Palavra: Deus Chave: 31294 Docs: 1 2 4 5 10 
+Palavra: pras Chave: 788056 Docs: 12 
+Palavra: Jeremias Chave: 788056 Docs: 12 
+Palavra: cidade Chave: 788056 Docs: 12 
+Palavra: tanto Chave: 788056 Docs: 12 
+Palavra: propria, Chave: 788056 Docs: 12 
+Palavra: todo Chave: 788056 Docs: 11 12 
+Palavra: comum Chave: 788056 Docs: 9 10 
+Palavra: concedendo Chave: 788056 Docs: 9 10 
+Palavra: Francisco Chave: 788056 Docs: 9 10 
+Palavra: Santos Chave: 788056 Docs: 4 5 
+Palavra: ofensas Chave: 788056 Docs: 4 
+Palavra: da Chave: 788056 Docs: 3 11 12 
+Palavra: o Chave: 788056 Docs: 3 11 12 
+Palavra: disseram Chave: 788056 Docs: 1 2 
+Palavra: ascendente Chave: 28245 Docs: 12 
+Palavra: zona Chave: 28245 Docs: 12 
+Palavra: ano-novo Chave: 28245 Docs: 12 
+Palavra: refresca Chave: 28245 Docs: 10 
+Palavra: pessoas Chave: 28245 Docs: 7 8 9 
+Palavra: Arre Chave: 28245 Docs: 7 8 
+Palavra: falsa Chave: 405101 Docs: 12 
+Palavra: horas Chave: 405101 Docs: 12 
+Palavra: passagem, Chave: 405101 Docs: 12 
+Palavra: so Chave: 405101 Docs: 12 
+Palavra: divulga Chave: 405101 Docs: 2 
+Palavra: escolha Chave: 217070 Docs: 12 
+Palavra: sombrinha Chave: 217070 Docs: 10 
+Palavra: principiou Chave: 217070 Docs: 9 10 
+Palavra: perigoso Chave: 217070 Docs: 5 6 7 8 
+Palavra: fechos Chave: 217070 Docs: 2 
+Palavra: declarava Chave: 5114265 Docs: 12 
+Palavra: vez Chave: 5114265 Docs: 12 
+Palavra: No Chave: 5114265 Docs: 12 
+Palavra: conforme Chave: 5114265 Docs: 7 8 
+Palavra: caminho Chave: 5114265 Docs: 6 7 8 9 10 
+Palavra: esses Chave: 5114265 Docs: 4 5 6 7 
+Palavra: nosso Chave: 5114265 Docs: 4 5 6 7 8 11 
+Palavra: determinaram Chave: 5114265 Docs: 2 
+Palavra: veio Chave: 7344 Docs: 12 
+Palavra: souberam Chave: 7344 Docs: 12 
+Palavra: diante Chave: 7344 Docs: 12 
+Palavra: via Chave: 7344 Docs: 12 
+Palavra: Somos Chave: 7344 Docs: 11 
+Palavra: bonitos Chave: 7344 Docs: 9 
+Palavra: vou Chave: 7344 Docs: 3 
+Palavra: vou Chave: 7344 Docs: 3 4 12 

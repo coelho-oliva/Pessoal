@@ -1,0 +1,1024 @@
+NONADA 1 2 
+TIROS 1 2 
+SENHOR 1 2 
+ouviu 1 2 
+briga 1 2 
+homem 1 2 5 6 7 8 12 
+Deus 1 2 4 5 10 
+esteja 1 2 
+Alvejei 1 2 
+mira 1 2 
+quintal 1 2 
+baixo 1 2 
+acerto 1 2 
+Todo 1 2 
+dia 1 2 4 12 
+gosto 1 2 
+desde 1 2 
+mal 1 2 4 7 8 
+mocidade 1 2 
+vieram 1 2 
+Causa 1 2 
+dum 1 2 4 6 7 8 
+bezerro 1 2 
+bezerro 1 
+branco 1 2 
+erroso 1 2 
+olhos 1 2 7 8 12 
+ser 1 2 12 
+viu 1 2 12 
+cachorro 1 2 
+Me 1 2 
+disseram 1 2 
+eu 1 2 4 5 6 7 8 12 
+quis 1 2 4 5 6 7 8 
+avistar 1 2 
+Mesmo 1 
+defeito 1 2 
+como 1 11 12 
+nasceu 1 2 
+arrebitado 1 2 
+figurava 1 2 
+rindo 1 2 
+feito 1 2 
+pessoa 1 5 6 7 8 
+QUE 2 
+O 2 3 4 5 6 7 11 12 
+foram 2 
+um 2 3 4 12 
+Cara 2 
+gente 2 3 4 5 6 7 8 9 12 
+cara 2 
+determinaram 2 
+era 2 5 6 7 12 
+demo 2 3 4 6 7 8 
+Povo 2 
+Dono 2 
+dele 2 3 4 
+nem 2 12 
+sei 2 
+Vieram 2 
+emprestar 2 
+minhas 2 
+cedi 2 
+tenho 2 11 
+senhor 2 3 4 5 6 7 8 9 10 12 
+ri 2 
+certas 2 6 7 8 
+risadas 2 
+quando 2 3 11 12 
+tiro 2 12 
+verdade 2 
+primeiro 2 3 4 12 
+cachorrada 2 
+pega 2 
+instantaneamente 2 
+depois 2 
+deu 2 12 
+mortos 2 
+situado 2 
+campos 2 
+gerais 2 3 4 5 6 
+fora 2 4 
+dentro 2 5 6 7 12 
+eles 2 12 
+fim 2 
+rumo 2 
+terras 2 
+altas 2 
+demais 2 
+Urucuia 2 
+Toleima 2 
+Corinto 2 
+Curvelo 2 
+dito 2 5 6 7 8 
+Ah 2 5 6 7 8 9 10 
+tem 2 3 4 
+maior 2 
+Lugar 2 
+divulga 2 
+pastos 2 
+carecem 2 
+fechos 2 
+pode 2 3 12 
+torar 2 
+dez 2 12 
+quinze 2 12 
+topar 2 
+casa 2 3 4 12 
+morador 2 
+criminoso 2 
+vive 2 
+cristo 2 
+jesus 2 
+arrocho 2 
+autoridade 2 
+oestes 2 
+almargem 3 4 5 6 
+de 3 5 6 7 9 11 12 
+vargens 3 4 5 6 
+bom 3 4 5 6 12 
+render 3 4 5 6 
+as 3 11 12 
+vazantes 3 4 5 6 
+culturas 3 4 5 6 
+mata 3 4 5 6 7 8 
+em 3 4 11 12 
+madeiras 3 4 5 6 
+grossura 3 4 5 6 
+ainda 3 4 5 6 
+dessas 3 4 5 6 
+corre 3 4 5 6 
+volta 3 4 5 6 
+Esses 3 4 5 6 
+tamanho 3 4 5 6 
+Enfim 3 4 5 6 
+cada 3 4 5 6 
+o 3 11 12 
+que 3 4 11 12 
+quer 3 12 
+aprova 3 4 5 6 7 8 10 
+ou 3 12 
+toda 3 4 6 12 
+a 3 11 12 
+Do 3 4 
+gloso 3 4 
+Senhor 3 4 
+pergunte 3 4 
+aos 3 12 
+Em 3 4 5 
+falso 3 4 
+receio 3 4 
+desfalam 3 4 
+no 3 12 
+nome 3 4 12 
+dizem 3 4 
+Que 3 4 11 12 
+Vote 3 4 
+Quem 3 4 
+muito 3 4 5 6 7 8 11 12 
+se 3 11 12 
+evita 3 4 
+convive 3 4 
+Aristides 3 4 
+existe 3 4 5 6 7 
+buritizal 3 4 
+desta 3 
+minha 3 5 6 7 8 12 
+direita 3 4 
+chamado 3 4 
+Vereda 3 4 
+da 3 11 12 
+Vaca 3 4 
+Mansa 3 4 
+Santa 3 4 
+Rita 3 4 
+mundo 3 4 6 7 8 9 10 12 
+ele 3 4 5 6 7 12 
+passar 3 4 
+lugares 3 4 
+porque 3 12 
+escuta 3 4 
+chorinho 3 4 
+avisando 3 4 
+Eu 3 4 5 12 
+vou 3 4 12 
+vou 3 
+diga 3 
+E 3 4 11 12 
+quem 3 4 12 
+qualquer 3 4 
+daqui 3 4 
+jura 3 4 
+capeta 3 4 
+satanazim 3 4 
+preso 3 4 
+obrigado 3 4 
+ajudar 3 4 12 
+executa 3 4 
+empresa 3 4 
+vias 3 4 
+completar 3 4 
+rico 3 4 
+Apre 3 4 
+por 3 5 6 7 12 
+isso 3 
+besta 3 4 
+pra 3 12 
+rupeia 3 4 
+nega 3 4 
+deixando 3 
+amontar 3 4 
+mesmo 3 4 5 6 7 12 
+engordando 3 4 
+assim 3 
+ouvir 3 4 
+ouvir 3 
+Ainda 3 4 12 
+estude 3 4 
+agora 3 
+nestes 3 
+dias 3 11 
+porfalando 3 4 
+Diabo 3 4 
+parou 3 4 
+passagem 3 12 
+teria 4 
+aparecido 4 
+normal 4 
+cavalo 4 7 8 
+meio 4 5 6 7 8 9 12 
+capaz 4 
+vinte 4 
+minutos 4 
+bastava 4 
+costeava 4 
+Rio 4 5 6 7 8 
+do 4 11 12 
+Chico 4 
+pelas 4 5 6 7 12 
+cabeceiras 4 
+sabe 4 
+ofensas 4 
+anunciou 4 
+passou 4 
+divertimento 4 
+clareia 4 5 6 7 8 
+paz 4 5 6 7 8 
+Mas 4 5 6 7 8 11 12 
+entenda 4 5 6 7 8 
+tal 4 5 6 7 12 
+mangar 4 5 6 7 8 
+Pois 4 5 6 7 8 
+hem 4 5 6 7 8 
+despontar 4 5 6 7 8 
+nascentes 4 5 6 7 8 
+coisa 4 5 6 7 8 9 10 12 
+redobrar 4 5 6 7 8 
+internos 4 5 6 7 8 
+deste 4 5 6 7 
+Estado 4 5 6 7 8 
+nosso 4 5 6 7 8 11 
+custante 4 5 6 7 8 
+viagem 4 5 6 7 8 
+Diga 4 5 6 7 8 
+Doideira 4 5 6 7 8 
+respeito 4 5 6 7 8 
+esses 4 5 6 7 
+nomes 4 5 6 7 
+querer 4 5 6 7 
+invocar 4 5 6 7 8 
+forme 4 5 6 7 
+forma 4 5 6 7 
+seja 4 5 
+pessoalmente 4 5 
+quase 4 5 
+perdi 4 5 
+nele 4 5 
+lhe 4 5 12 
+digo 4 5 6 7 8 
+puridade 4 5 
+Sei 4 5 
+bem 4 5 11 
+estabelecido 4 5 
+grassa 4 5 
+nos 4 5 
+Santos 4 5 
+Evangelhos 4 5 
+conversei 4 5 
+rapaz 4 5 12 
+seminarista 4 5 
+condizente 4 5 
+conferindo 4 5 
+livro 4 5 
+rezas 4 5 
+revestido 4 5 
+paramenta 4 5 
+vara 4 5 
+maria 4 5 
+preta 4 5 10 
+proseou 4 5 
+ia 4 5 12 
+adjutorar 4 5 
+padre 4 5 9 10 
+Cujo 4 5 
+corpo 4 5 
+vivo 4 5 
+vivo 4 
+Dou 5 6 7 8 
+Essas 5 6 7 8 
+melancolias 5 6 7 8 
+cachoeira 5 6 7 8 
+cachoeira 5 
+caindo 5 6 7 8 
+retombando 5 6 7 8 
+consome 5 6 7 8 
+desfaz 5 6 7 8 
+barranco 5 6 7 8 
+sobra 5 6 7 8 
+Viver 5 6 7 8 
+perigoso 5 6 7 8 
+Explico 5 6 7 
+diabo 5 6 7 8 9 10 12 
+vige 5 6 7 
+crespos 5 6 7 8 
+arruinado 5 6 7 8 
+avessos 5 6 7 8 
+Solto 5 6 7 8 
+si 5 6 7 
+nenhum 5 6 7 8 9 10 12 
+Nenhum 5 6 7 8 
+declare 5 6 7 8 
+franco 5 6 7 8 
+pedir 5 6 7 
+posso 5 6 7 
+Tomara 5 6 7 8 
+fosse 5 6 7 
+assisado 5 6 7 8 
+acredita 5 6 7 8 
+Sua 5 6 7 8 
+alta 5 6 7 8 12 
+valia 5 6 7 8 
+sabia 5 6 7 8 12 
+campo 5 6 7 8 
+velhice 5 6 7 8 9 10 
+carece 5 6 7 8 9 10 
+aragem 5 6 7 8 
+descanso 5 6 7 8 
+Tem 5 6 7 12 
+Nunca 5 6 7 8 12 
+vi 5 6 7 
+devia 5 6 7 8 
+este 5 6 7 8 
+vosso 5 6 7 8 
+servidor 5 6 7 8 
+Fosse 5 6 7 8 
+contar 5 6 7 8 
+Bem 5 6 7 8 
+regula 5 6 7 8 
+estado 5 6 7 8 
+preto 5 6 7 8 
+criaturas 5 6 7 8 
+mulheres 5 6 7 8 
+ditado 5 6 7 8 
+menino 5 6 7 8 
+trem 5 6 7 8 
+usos 5 6 7 8 
+plantas 5 6 7 8 
+terra 5 6 7 8 
+vento 5 6 7 8 
+rua 5 7 8 
+rua 6 
+Hem 6 7 8 10 
+Hem 6 
+pior 6 7 8 
+Mal 6 7 8 
+Sofro 6 7 8 
+pena 6 7 8 
+Melhor 6 7 8 
+arrepare 6 7 8 
+formato 6 7 8 
+ramos 6 7 8 
+folhas 6 7 8 
+mandioca 6 7 8 
+mansa 6 7 8 
+come 6 7 8 
+brava 6 7 8 
+Agora 6 7 8 12 
+estranhez 6 7 8 
+doce 6 7 8 
+azangada 6 7 8 
+motivos 6 7 8 
+replantada 6 7 8 
+mudas 6 7 8 
+seguidas 6 7 8 
+toma 6 7 8 
+esmo 6 7 8 
+comer 6 7 8 
+franzido 6 7 8 
+faces 6 7 8 
+duma 6 7 8 
+cobra 6 7 8 
+cascavel 6 7 8 
+porco 6 7 8 12 
+feliz 6 7 8 
+bruto 6 7 8 
+pudesse 6 7 8 
+roncar 6 7 8 
+engolir 6 7 8 
+suja 6 7 8 
+comodidade 6 7 8 
+talhar 6 7 8 
+rasgar 6 7 8 
+bico 6 7 8 
+parece 6 7 8 
+afiada 6 7 8 
+ruim 6 7 8 
+desejo 6 7 8 
+tortas 6 7 8 
+pedras 6 7 8 
+venenosas 6 7 8 
+estragam 6 7 8 
+mortal 6 7 8 
+jazendo 6 7 8 
+fundo 6 7 8 
+dorme 6 7 8 
+significado 6 7 8 
+maligno 6 7 8 
+ordem 6 7 8 
+seguir 6 7 8 
+caminho 6 7 8 9 10 
+campear 6 7 8 
+Arremisturado 6 7 
+tudo 6 7 12 
+espia 7 8 
+fica 7 8 12 
+gasturado 7 8 
+rebaixou 7 8 
+magreza 7 8 
+carinha 7 8 
+ossos 7 8 
+encaveirada 7 8 
+entisicou 7 8 
+tosse 7 8 
+tossura 7 8 
+secos 7 8 
+peitos 7 8 
+Arre 7 8 
+mulher 7 8 
+pouquim 7 8 
+prazer 7 8 
+feio 7 8 
+sovas 7 8 
+blimbilim 7 8 
+quaresma 7 8 
+compadre 7 8 10 
+perversidades 7 8 
+Alma 7 8 
+breu 7 8 
+pagava 7 8 
+chorando 7 8 
+penando 7 8 
+sofre 7 8 
+igual 7 8 
+bonzinho 7 8 
+Ave 7 8 
+neste 7 8 
+mais 7 8 11 12 
+custosa 7 8 
+pecados 7 8 12 
+artes 7 8 9 10 
+pessoas 7 8 9 
+emendado 7 8 
+esbarram 7 8 
+sertanejo 7 8 
+navego 7 8 
+pobre 7 8 
+coitado 7 8 
+Inveja 7 8 
+conforme 7 8 
+senhorleitura 7 
+misturado 8 
+misturado 8 
+analfabeto 9 
+Soletrei 9 
+meante 9 
+cartilha 9 
+mestre 9 
+Mestre 9 
+Lucas 9 
+Curralinho 9 
+decorei 9 
+regra 9 
+capricho 9 
+tracei 9 
+bonitos 9 
+mapas 9 
+sofismado 9 
+ladino 9 
+cursar 9 
+latim 9 
+Tempo 9 
+saudoso 9 
+Inda 9 
+apreceio 9 
+Vito 9 10 
+Soziano 9 10 
+assina 9 10 
+almanaque 9 10 
+grosso 9 10 
+logogrifos 9 10 
+charadas 9 10 
+divididas 9 10 
+primazia 9 10 
+leitura 9 10 
+proveitosa 9 10 
+virtudes 9 10 
+exemplos 9 10 
+esperto 9 10 
+engambelando 9 10 
+Francisco 9 10 
+moral 9 10 
+Raciocinar 9 10 
+exortar 9 10 
+aconselhar 9 10 
+justo 9 10 
+aquietar 9 10 
+temer 9 10 
+protegem 9 10 
+Ipe 9 10 
+forro 9 10 
+diferente 9 10 
+Diverjo 9 10 
+desconfio 9 10 
+concedendo 9 10 
+solte 9 10 
+ligeira 9 10 
+rastreio 9 10 
+matos 9 10 
+gradas 9 10 
+definitivo 9 10 
+proclamar 9 10 
+Valor 9 10 
+lei 9 10 
+boa 9 10 
+Governo 9 10 
+assente 9 10 
+arranjadas 9 10 
+lidar 9 10 
+carne 9 10 
+sangue 9 10 11 12 
+Tanta 9 
+susto 9 10 
+saber 9 
+sossega 9 10 
+nascendo 9 10 
+De 9 12 
+sorte 9 
+escolher 9 10 12 
+tece 9 10 
+viver 9 10 
+safado 9 10 
+comum 9 10 
+sacerdote 9 10 
+chefe 9 10 
+parido 9 10 
+principiou 9 10 
+errei 9 10 
+reumatismo 9 10 
+escorvas 9 10 
+escorvas 9 
+explico 10 
+louco 10 
+principalmente 10 
+desendoidecer 10 
+desdoidar 10 
+Reza 10 
+sara 10 
+loucura 10 
+alma 10 
+Rezo 10 
+cristão 10 
+embrenho 10 
+preces 10 
+doutrina 10 
+Mindubim 10 
+Matias 10 
+crente 10 12 
+metodista 10 
+pecador 10 
+ora 10 
+cantando 10 
+hinos 10 
+quieta 10 
+suspende 10 
+sombrinha 10 
+refresca 10 
+Bofe 10 
+Detesto 10 
+curial 10 
+tresmalho 10 
+afamam 10 
+virtude 10 
+poder 10 12 
+encomenda 10 
+rezar 10 
+Vale 10 
+vale 10 
+Todos 11 
+os 11 12 
+Nao 11 12 
+tempo 11 12 
+Temos 11 
+todo 11 12 
+antes 11 12 
+Lembro 11 
+e 11 12 
+esqueco 11 
+foi 11 12 
+"Sempre 11 
+temos 11 
+Nosso 11 
+suor 11 
+belo 11 
+esse 11 
+tao 11 
+Veja 11 
+sol 11 12 
+dessa 11 
+manha 11 
+A 11 12 
+tempestade 11 
+chega 11 
+cor 11 
+dos 11 12 
+Olhos 11 
+Entao 11 12 
+me 11 
+abraca 11 
+diz 11 12 
+uma 11 12 
+ja 11 12 
+estamos 11 
+distantes 11 
+proprio 11 
+medo 11 12 
+deixe 11 
+luzes 11 12 
+acesas 11 
+escondido 11 
+prometido, 11 
+ninguem 11 
+Nem 11 
+Somos 11 
+jovens 11 
+-Nao 12 
+tinha 12 
+medo, 12 
+Joao 12 
+Santo 12 
+Era 12 
+todos 12 
+diziam 12 
+Deixou 12 
+tras 12 
+marasmo 12 
+So 12 
+sentir 12 
+seu 12 
+odio 12 
+Jesus 12 
+Quando 12 
+crianca 12 
+so 12 
+pensava 12 
+com 12 
+soldado 12 
+pai 12 
+terror 12 
+cercania 12 
+onde 12 
+na 12 
+escola 12 
+ate 12 
+professor 12 
+Ia 12 
+igreja 12 
+roubar 12 
+velhinhas 12 
+colocavam 12 
+caixinha 12 
+Sentia 12 
+sentia 12 
+aquilo 12 
+ali 12 
+nao 12 
+Ele 12 
+queria 12 
+sair 12 
+para 12 
+ver 12 
+coisas 12 
+via 12 
+Juntou 12 
+dinheiro 12 
+escolha 12 
+propria, 12 
+escolheu 12 
+Comia 12 
+todas 12 
+menininhas 12 
+tanto 12 
+brincar 12 
+medico, 12 
+doze 12 
+Aos 12 
+mandado 12 
+Onde 12 
+aumentou 12 
+diante 12 
+entendia 12 
+vida 12 
+funcionava 12 
+Discriminacao 12 
+causa 12 
+sua 12 
+classe 12 
+Ficou 12 
+cansado 12 
+tentar 12 
+achar 12 
+comprou 12 
+passagem, 12 
+direto 12 
+la 12 
+chegando 12 
+tomar 12 
+encontrou 12 
+boiadeiro 12 
+boiadeiro 12 
+perder 12 
+Dizia 12 
+ele: 12 
+- 12 
+Estou 12 
+indo 12 
+Neste 12 
+pais 12 
+lugar 12 
+melhor 12 
+precisando 12 
+visitar 12 
+fico 12 
+aqui 12 
+voce 12 
+vai 12 
+meu 12 
+aceitou 12 
+proposta 12 
+num 12 
+onibus 12 
+entrou 12 
+Planalto 12 
+ficou 12 
+bestificado 12 
+Saindo 12 
+rodoviaria, 12 
+Meu 12 
+Deus, 12 
+cidade 12 
+No 12 
+ano-novo 12 
+comeco 12 
+Cortar 12 
+madeira, 12 
+aprendiz 12 
+Ganhava 12 
+cem 12 
+mil 12 
+mes 12 
+Na 12 
+sexta-feira 12 
+zona 12 
+Gastar 12 
+conhecia 12 
+muita 12 
+Ate 12 
+neto 12 
+bastardo 12 
+Um 12 
+peruano 12 
+vivia 12 
+muitas 12 
+trazia 12 
+Seu 12 
+Pablo 12 
+negocio 12 
+Cristo 12 
+morte 12 
+dava 12 
+ouvia 12 
+às 12 
+sete 12 
+horas 12 
+sempre 12 
+dizia 12 
+ministro 12 
+mas 12 
+conversa 12 
+decidiu 12 
+Como 12 
+Pablo, 12 
+Elaborou 12 
+vez 12 
+plano 12 
+E, 12 
+sem 12 
+crucificado, 12 
+plantacao 12 
+Logo 12 
+logo 12 
+maluco 12 
+souberam 12 
+bagulho 12 
+acabou 12 
+traficantes 12 
+Fez 12 
+amigos, 12 
+frequentava 12 
+Asa 12 
+festa 12 
+rock, 12 
+repente, 12 
+sob 12 
+ma 12 
+influencia 12 
+Boyzinhos 12 
+Comecou 12 
+Ja 12 
+roubo 12 
+pro 12 
+inferno 12 
+pela 12 
+primeira 12 
+Violencia 12 
+estupro 12 
+Voces 12 
+vao 12 
+ver, 12 
+pegar 12 
+Destemido 12 
+temido 12 
+Distrito 12 
+Capitao 12 
+traficante, 12 
+playboy 12 
+Foi 12 
+conheceu 12 
+seus 12 
+Maria 12 
+Lucia 12 
+menina 12 
+coracao 12 
+Pra 12 
+ela 12 
+carpinteiro 12 
+voltou 12 
+te 12 
+filho 12 
+quero 12 
+passa 12 
+vem 12 
+à 12 
+porta 12 
+faz 12 
+indecorosa 12 
+Uma 12 
+resposta 12 
+boto 12 
+bomba 12 
+banca 12 
+jornal 12 
+colegio 12 
+Isso 12 
+faco 12 
+protejo 12 
+general 12 
+estrelas, 12 
+atras 12 
+Com 12 
+cu 12 
+brinque 12 
+Peixes 12 
+ascendente 12 
+olhar 12 
+velho 12 
+Voce 12 
+perdeu 12 
+perdeu 12 
+irmao. 12 
+Essa 12 
+palavras 12 
+entrar 12 
+sofrer 12 
+consequencias 12 
+estava 12 
+futuro 12 
+incerto 12 
+Se 12 
+embebedou 12 
+bebedeira 12 
+descobriu 12 
+Trabalhado 12 
+Falou 12 
+tambem 12 
+contrabando 12 
+Bolivia 12 
+revendia 12 
+acontece 12 
+Jeremias, 12 
+traficante 12 
+Apareceu 12 
+sabendo 12 
+planos 12 
+trouxe 12 
+usar 12 
+arma 12 
+Jeremias 12 
+comecasse 12 
+(O 12 
+maconheiro 12 
+sem-vergonha, 12 
+organizou 12 
+fez 12 
+Desvirginava 12 
+mocinhas 12 
+ha 12 
+saudade 12 
+comecou 12 
+embora, 12 
+ta 12 
+Chegando 12 
+entao 12 
+segunda 12 
+Lucia, 12 
+nela 12 
+duelo 12 
+Amanha 12 
+duas 12 
+hora 12 
+Ceilândia, 12 
+frente 12 
+ao 12 
+lote 12 
+14, 12 
+suas 12 
+armas 12 
+acabo 12 
+voce, 12 
+mato 12 
+aquela 12 
+falsa 12 
+jurei 12 
+reporter 12 
+noticia 12 
+Dizendo 12 
+local 12 
+sabado 12 
+entao, 12 
+horas, 12 
+Sem 12 
+demora 12 
+atirava 12 
+acertou 12 
+Sentido 12 
+olhou 12 
+pras 12 
+bandeirinhas 12 
+povo 12 
+sorveteiro 12 
+câmeras 12 
+TV 12 
+filmava 12 
+lembrou 12 
+vivera 12 
+naquela 12 
+via-crucis 12 
+virou 12 
+circo, 12 
+estou 12 
+nisso 12 
+cegou 12 
+Ela 12 
+primo 12 
+sou 12 
+homem, 12 
+atiro 12 
+costas 12 
+Olha 12 
+ca 12 
+filha 12 
+puta, 12 
+Da 12 
+olhada 12 
+teu 12 
+Deu 12 
+cinco 12 
+tiros 12 
+bandido 12 
+arrependeu 12 
+morreu 12 
+junto 12 
+Joao, 12 
+declarava 12 
+santo 12 
+burguesia 12 
+acreditou 12 
+historia 12 
+viram 12 
+conseguiu 12 
+veio 12 
+Brasilia, 12 
+falar 12 
+essa 12 
+sofrer. 12 

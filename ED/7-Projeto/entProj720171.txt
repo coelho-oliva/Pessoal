@@ -1,0 +1,23 @@
+Elisa: Igor
+Guilherme: Igor
+Victor Sousa: Marcus
+Victor Ribeiro: Iuri
+Aecio: Vanessa
+Igor: Guilherme, Elisa
+Caio: Marcus, Raul
+Ivan: 
+Jonas: Ivan
+Marcus: Caio
+Raul: Marcus
+Helio: Andre
+Adriano: Vanessa, Marcus
+Diogo: 
+Evandro: Helio, Joao
+Ingrid: Joao, Helio
+Joao: Evandro, Ingrid, Samuel, Andre
+Lucas:
+Samuel: 
+Vanessa: Aecio
+Vitor: Evandro, Ingrid, Joao, Lucas, Samuel, Wanderlan, Iuri
+Wanderlan: Evandro
+Iuri: Samuel

@@ -1,0 +1,110 @@
+||Atendido o voo:TX3986 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 1
+||Atendido o voo:NQ4934 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 2
+||Atendido o voo:HD9852 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 3
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  WU9684	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+||Atendido o voo:WR1846 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 1
+||Atendido o voo:DC8862 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 2
+||Atendido o voo:AQ1809 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 3
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  AD0313	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  IC5965	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  OE4837	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  ZG8221	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+||Atendido o voo:DA1819 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 1
+||Atendido o voo:KE9270 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 2
+||Atendido o voo:PH9378 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 3
+||Atendido o voo:MJ4374 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 1
+||Atendido o voo:EF1864 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 2
+||Atendido o voo:PO6237 Tipo: AVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 1	Na pista: 3
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  JZ0314	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  AY3527	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+============================================================
+||          ALERTA GERAL DE DESVIO DE AERONAVE            ||
+||       Voo desviado:  HD9133	  do Tipo:	A	  ||
+||       Horario do voo: Wed Apr 19 23:50:59 2017
+
+============================================================
+||Atendido o voo:UM6316 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:BZ9654 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:DB1006 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:RP0292 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:VZ2163 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:NA3986 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:PH3711 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:JX8410 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:TY1380 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:TN4910 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:YY4752 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:PV7981 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:ID0051 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:XE9417 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:VU6999 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:VH5701 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:MW2952 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1
+||Atendido o voo:WN3250 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 2
+||Atendido o voo:FY9430 Tipo: DVoo previsto para: Wed Apr 19 23:50:59 2017
+	Prioridade: 0	Na pista: 1

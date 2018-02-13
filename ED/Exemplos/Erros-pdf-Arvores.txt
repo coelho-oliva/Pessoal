@@ -1,0 +1,4 @@
+Erros no pdf de aula-arvores-binarias.pdf(38 paginas)
+
+- Na pagina 16;
+	Quando definindo a funcao, creio que devesse ser void arv_libera(Arv* a);
