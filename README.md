@@ -1,3 +1,3 @@
-**Alguns códigos de projetos pessoais e trabalhos de faculdade.**
+**Some personal projects and college works**
 
-*Ainda organizando.*
+*Yet organizing.*
